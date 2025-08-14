@@ -1,0 +1,19 @@
+.basic,
+.fancy {
+font-size: 28px;
+font-style: Helvetica, "Times new roman", sans-serif;
+}
+
+
+.basic {
+
+    background-color: black;
+    color: white;
+
+}
+
+.fancy {
+
+    background-color:rgb(255, 238, 0)
+
+}
